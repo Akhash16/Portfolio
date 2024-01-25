@@ -21,6 +21,7 @@
     "browser-sync": "^2.27.7",
     "concurrently": "^7.0.0",
     "cssnano": "^5.0.17",
+    "gh-pages": "^6.1.1",
     "postcss-cli": "^9.1.0"
   },
   "devDependencies": {
